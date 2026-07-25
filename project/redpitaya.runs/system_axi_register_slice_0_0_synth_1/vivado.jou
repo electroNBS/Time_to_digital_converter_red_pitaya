@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Jun  3 10:08:12 2026
+# Process ID: 11896
+# Current directory: D:/RedPitaya-FPGA/prj/v0.94/project/redpitaya.runs/system_axi_register_slice_0_0_synth_1
+# Command line: vivado.exe -log system_axi_register_slice_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source system_axi_register_slice_0_0.tcl
+# Log file: D:/RedPitaya-FPGA/prj/v0.94/project/redpitaya.runs/system_axi_register_slice_0_0_synth_1/system_axi_register_slice_0_0.vds
+# Journal file: D:/RedPitaya-FPGA/prj/v0.94/project/redpitaya.runs/system_axi_register_slice_0_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source system_axi_register_slice_0_0.tcl -notrace

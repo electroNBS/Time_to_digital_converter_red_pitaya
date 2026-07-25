@@ -1,0 +1,7 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+[+] Reset released.
+FIFO empty flag: 00000001
+Word 1: 00000006  Fine ticks:   0  Coarse:       6
+Word 2: 80000006  Fine ticks:   0  Coarse:       6
+$finish called at time : 196 ns : File "D:/RedPitaya-FPGA/prj/quantum_control/project/redpitaya.srcs/sim_1/new/tb_tagger_extracted.v" Line 101

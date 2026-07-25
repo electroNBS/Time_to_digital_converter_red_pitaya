@@ -1,0 +1,17 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+[+] TDC Simulation Started. Reset Released.
+[+] Initiating System Bus Reads to Drain FIFO...
+[-] Status Register Read: 0x00000000 (Bit 0 is empty flag)
+[MATCH] Word 1 Pulled From Queue: 0x00000006
+        -> Channel ID Tag  = 0
+        -> Overflow Flag   = 0
+        -> Fine TDL Ticks  =   0
+        -> Coarse Counter  =       6
+[MATCH] Word 2 Pulled From Queue: 0x80000006
+        -> Channel ID Tag  = 1
+        -> Overflow Flag   = 0
+        -> Fine TDL Ticks  =   0
+        -> Coarse Counter  =       6
+[+] TDC Testbench Execution Completed Successfully.
+$finish called at time : 236 ns : File "D:/RedPitaya-FPGA/prj/quantum_control/tbn/tb_hydraharp_replica.v" Line 133

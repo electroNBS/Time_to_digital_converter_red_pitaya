@@ -1,0 +1,12 @@
+
+{ 
+    crc :  15632912902618968128  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 0fadcfae3e054427986c044403daf9ef --incr --debug typical --relax --mt 2 -L xil_defaultlib -L xilinx_vip -L unisims_ver -L secureip --snapshot tb_tagger_extracted_func_impl xil_defaultlib.tb_tagger_extracted xil_defaultlib.glbl -transport_int_delays -pulse_r 0 -pulse_int_r 0" , 
+    buildDate : "May 27 2020" , 
+    buildTime : "20:09:33" , 
+    linkCmd : "D:\\Xilinx_Unified_2020.1_0602_1208\\Vivado\\2020.1\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/tb_tagger_extracted_func_impl/xsimk.exe\"   \"xsim.dir/tb_tagger_extracted_func_impl/obj/xsim_0.win64.obj\" \"xsim.dir/tb_tagger_extracted_func_impl/obj/xsim_1.win64.obj\" -L\"D:\\Xilinx_Unified_2020.1_0602_1208\\Vivado\\2020.1\\lib\\win64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

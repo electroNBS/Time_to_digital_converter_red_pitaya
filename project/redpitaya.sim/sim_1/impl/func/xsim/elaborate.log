@@ -1,0 +1,20 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx_Unified_2020.1_0602_1208/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 0fadcfae3e054427986c044403daf9ef --incr --debug typical --relax --mt 2 -L xil_defaultlib -L xilinx_vip -L unisims_ver -L secureip --snapshot tb_tagger_extracted_func_impl xil_defaultlib.tb_tagger_extracted xil_defaultlib.glbl -log elaborate.log -transport_int_delays -pulse_r 0 -pulse_int_r 0 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+WARNING: [XSIM 43-3364] "D:/RedPitaya-FPGA/prj/quantum_control/project/redpitaya.srcs/sim_1/new/tb_tagger_extracted.v" Line 36. In system task $sdf_annotate, log file argument is not supported yet. It will be ignored.
+WARNING: [XSIM 43-3365] "D:/RedPitaya-FPGA/prj/quantum_control/project/redpitaya.srcs/sim_1/new/tb_tagger_extracted.v" Line 36. In system task $sdf_annotate, scale factor argument is not supported yet. It will be ignored.
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+WARNING: [XSIM 43-3918] Unable to determine HDL language type of design hierarchy in SDF. Returning without back annotation.
+Time Resolution for simulation is 1ps
+Compiling module unisims_ver.CARRY4
+Compiling module unisims_ver.FF18_INTERNAL_VLOG(DATA_WIDTH=36...
+Compiling module unisims_ver.FIFO18E1(DATA_WIDTH=36,FIFO_MODE...
+Compiling module xil_defaultlib.hydraharp_replica_top_default
+Compiling module xil_defaultlib.tb_tagger_extracted
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_tagger_extracted_func_impl
